@@ -6,3 +6,6 @@ Using the  Bokeh plotting library, we can plot the csv file containing the start
 
 ![Screenshot (74)](https://user-images.githubusercontent.com/72685315/152538286-88b1534c-ae2e-4f53-8734-85a7602b823d.png)
 
+![Screenshot (78)](https://user-images.githubusercontent.com/72685315/152828097-6123bba9-feec-4fe3-a5da-a4b595b40126.png)
+
+
